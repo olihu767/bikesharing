@@ -1,6 +1,6 @@
-# To Bike-Share Or Not To Bike-Share
+# If sharing bike will be successful
 
-Looking at Citi Bike's data, we are able to tell a compelling story of how successful the bike-sharing program has become in New York City. Using this data, we realized that we can expand this program to another state such as Des Moines, Iowa. At a first glance, New York City and Des Moines seem to be completely different from each other, however, doing some research, we were able to conclude that starting a bike-sharing program in Des Moines may prove to be fruitful.
+By looking at the Citi Bike's data, it is easy to identify the bike-sharing program is quite successful in NYC . Using this data, we realized that we can expand this program to another state such as Des Moines, Iowa. At a first glance, New York City and Des Moines seem to be completely different from each other; however, doing some research, we were able to conclude that starting a bike-sharing program in Des Moines may prove to be fruitful.
 
 Throughout our analysis, we wanted to answer the following questions:
 
