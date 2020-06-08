@@ -11,12 +11,12 @@ After analyzing the bike-sharing program in New York City, we will use this data
 
 ## Resources 
 
-  - Data Source: 201908-citibike-tripdata.csv.zip, nyc_desmoines_population_data.csv, https://github.com/Helen-Ly/bikesharing/blob/master/citibike_analysis.md (go to the reference section)
+  - Data Source: 201908-citibike-tripdata.csv.zip, nyc_desmoines_population_data.csv
   - Software: Visual Studio Code 1.43.0, Tableau Desktop 2020.2.0
 
 ## Summary
 
-At first New York City seemed to be on the opposite spectrum of Des Moines, however, after looking over the data and comparing the two states, New York City and Des Moines have multiple similarities. To read over the analysis, you can click on [citibike_analysis.md](https://github.com/Helen-Ly/bikesharing/blob/master/citibike_analysis.md) and view the Tableau story [here](https://public.tableau.com/profile/helen.ly#!/vizhome/BikeSharing_15906845472170/BikeSharingProposal?publish=yes).
+At first New York City seemed to be on the opposite spectrum of Des Moines, however, after looking over the data and comparing the two states, New York City and Des Moines have multiple similarities. To read over the analysis, you can click on [citibike_analysis.md](https://github.com/olihu767/bikesharing/blob/master/citibike_analysis.md) and view the Tableau story [here]
 
 ## Usage
 
