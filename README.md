@@ -17,7 +17,7 @@ Using the Citi Bike data, we looked into answering the following questions about
 
 ## Summary
 
-At first New York City seemed to be on the opposite spectrum of Des Moines, however, after looking over the data and comparing the two states, New York City and Des Moines have multiple similarities. To read over the analysis, you can click on [citibike_analysis.md]
+At first New York City seemed to be on the opposite spectrum of Des Moines, however, after looking over the data and comparing the two states, New York City and Des Moines have multiple similarities. To read over the analysis, you can click on [citibike_analysis.md](https://github.com/olihu767/bikesharing/blob/master/citibike_analysis.md
 
 ## Usage
 
