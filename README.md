@@ -35,13 +35,13 @@ We first looked at the population size of both New York City and Des Moines. As 
 
 With 13,983 bikes in New York City, the bikes were used 2,344,224 times in the month of August in 2019 [2]. If we broke down the numbers, there is 1 Citi Bike for around every 596 people in New York City. If we used the same ratio with Des Moines, we would roughly need 360 bikes to start a bike-sharing program. As such, the start-up cost would be a lot less as opposed to starting a bike-sharing program within a state comparable to New York City.
 
-![](https://github.com/olihu767/bikesharing/edit/master/image/Population_Comparison.png)
+![](Population_Comparison.png)
 
 ## Gender Comparison
 
 Though we looked at the population, there are a few more questions that need answering, such gender. Does gender play a role in the usage of these bike-sharing programs. If we take a look at the pie graph, it displays the gender breakdown for the Citi Bikes. It shows that almost 75% of users in New York City were male. Looking over the bar graph, we have displayed the gender profile of both states. The graph illustrates that the gender profile of both states are roughly the same. [1] 
 
-![](https://github.com/olihu767/bikesharing/edit/master/image/Gender_Comparison.png)
+![](image/Gender_Comparison.png)
 
 ## Labour Force versus Peak Hours
 
@@ -55,13 +55,13 @@ In New York City, 63.5% of the population are participating within the labour fo
 
 We have displayed 2 maps illustrating the starting and ending locations of the Citi Bikes in New York City. As you can see, the larger and darker the circle, the higher the count. As well, majority are within the city. Our data also shows that in New York City, the average commute time is 35.8 minutes and in Des Moines an average of 18.3 minutes. [6] [7] A reason as to why Des Moines has such a low average could be because of something called land area. Des Moines spans over [88 square miles][4] which is 3.4 times smaller than the land area in [New York City][5]. This makes it possible for bikes to be a means of transportation.
 
-![](https://github.com/olihu767/bikesharing/edit/master/image/Understanding_The_Commute.png)
+![](image/Understanding_The_Commute.png)
 
 ## Does Age Matter?
 
 Another factor we can look at is if age has any correlation to who will use the bikes. As we see in this graph, all age groups uses the Citi Bikes in New York City. However, we see that younger users have longer average trip durations. This is further evident with the graph that shows majority of the bikes are used by individuals in the labour force.
 
-![](https://github.com/olihu767/bikesharing/edit/master/image/Does_Age_Matter.png)
+![](image/Does_Age_Matter.png)
 
 ## Conclusion
 
